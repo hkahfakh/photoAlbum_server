@@ -1,0 +1,1 @@
+<annotation><folder>photoAlbum</folder><filename /><size><width>480</width><height>364</height></size><object><name>person</name><confidence>0.8675857</confidence><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>61</xmin><ymin>173</ymin><xmax>194</xmax><ymax>278</ymax></bndbox></object></annotation>
